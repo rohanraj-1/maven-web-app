@@ -1,3 +1,4 @@
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -7,10 +8,7 @@
   <version>3.0-RELEASE</version>
   <name>01-maven-web-app</name>
   <url>http://maven.apache.org</url>
-  <properties>
-  <sonar.host.url>http://3.110.220.63:9000//</sonar.host.url>
-  <sonar.login>sqp_b06d3a7ce6440753a79d80896a837be59c56c775</sonar.login>
-  <properties>
+ 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
