@@ -1,2 +1,2 @@
 ## hi
-# maven-web-app_priject
+# maven-web-app_project
